@@ -29,5 +29,7 @@ Built using Kotlin and Jetpack Compose.
 
 ## 📥 Direct APK Download
 
-You can download the latest version of the NetClan Explore App APK using the following link:
-[Download NetClan Explore App APK](Netclan_UI_APK.apk)
+You can download the latest version of the NetClan Explore App APK by clicking the link below:
+
+[Download NetClan Explore App APK](https://github.com/premganesh321/Netclan_UI/blob/master/Netclan_UI_APK.apk){:download="Netclan_UI_APK.apk"}
+
